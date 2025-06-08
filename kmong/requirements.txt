@@ -1,0 +1,5 @@
+beautifulsoup4
+openpyxl
+requests
+selenium
+webdriver-manager
